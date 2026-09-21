@@ -132,9 +132,11 @@ python scripts/acuna_analysis.py
 ## Methodology
 
 - **Injury dates:** July 10, 2021 (right ACL tear) and May 26, 2024
-, 2021 (right ACL tear) and May 26, 2024
-  (left ACL tear, surgery June 6, 2024) — both widely and precisely
-  documented in contemporaneous sports reporting.
+  (left ACL tear, surgery June 6, 2024) — some retrospective sports
+  articles report July 20, 2021 for the first injury; this appears to be
+  a copied error, as contemporaneous same-day reporting from MLB.com and
+  Sports Illustrated, both dated July 10, 2021, confirms the correct date.
+
 - **Sprint speed:** Baseball Savant Sprint Speed leaderboard, pulled by
   season, 2019-2026.
 - **Stolen base data:** Baseball-Reference official career statistics
