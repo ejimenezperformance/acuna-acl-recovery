@@ -139,16 +139,21 @@ python scripts/acuna_analysis.py
 
 ## Metodología
 
-- **Fechas de lesión:** 20 de julio de 2021 (rotura ACL derecha) y 26 de
-  mayo de 2024 (rotura ACL izquierda, cirugía 6 de junio de 2024) —
-  ambas ampliamente y precisamente documentadas en reportes deportivos
-  contemporáneos.
-- **Sprint speed:** leaderboard de Sprint Speed de Baseball Savant,
-  extraído por temporada, 2019-2026.
-- **Datos de bases robadas:** página de estadísticas oficiales de
-  carrera de Baseball-Reference, confirmada independientemente contra su
-  propia columna de SB% (calculada como SB/(SB+CS)) para consistencia
-  interna.
+
+- **Fechas de lesión:** 10 de julio de 2021 (rotura de LCA derecho) y 26 de
+  mayo de 2024 (rotura de LCA izquierdo, cirugía el 6 de junio de 2024) —
+  algunos artículos deportivos retrospectivos reportan el 20 de julio de
+  2021 para la primera lesión; esto parece ser un error copiado, ya que
+  reportes del mismo día por MLB.com y Sports Illustrated, ambos fechados
+  10 de julio de 2021, confirman la fecha correcta.
+
+- **Velocidad de sprint:** Tabla de líderes de Sprint Speed de Baseball
+  Savant, extraída por temporada, 2019-2026.
+
+- **Datos de bases robadas:** Página oficial de estadísticas de carrera de
+  Baseball-Reference, confirmada de forma independiente contra su propia
+  columna SB% (calculada como SB/(SB+CS)) para consistencia interna.
+
 
 ## Limitaciones
 
