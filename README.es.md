@@ -154,6 +154,9 @@ python scripts/acuna_analysis.py
   Baseball-Reference, confirmada de forma independiente contra su propia
   columna SB% (calculada como SB/(SB+CS)) para consistencia interna.
 
+- **Datos de distancia de lead:** Desglose de robo de bases de Statcast
+  de Baseball Savant, 2018-2026.
+
 
 ## Limitaciones
 
