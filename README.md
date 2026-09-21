@@ -143,6 +143,9 @@ python scripts/acuna_analysis.py
   page, which independently confirmed against its own SB% column
   (calculated as SB/(SB+CS)) for internal consistency.
 
+- **Lead distance data:** Baseball Savant's Statcast basestealing
+  breakdown, 2018-2026.
+
 ## Limitations
 
 - **Finding 3 (lead distance) originally lacked per-attempt data for a
